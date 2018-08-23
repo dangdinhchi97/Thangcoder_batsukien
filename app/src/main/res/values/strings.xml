@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Thangcoder_th2</string>
+    <string name="tv_xinchao">Xin chao toi la kich vao click se bet </string>
+    <string name="eta" >A</string>
+    <string name="etb" >B</string>
+    <string name="bta_c_b" >A+B</string>
+    <string name="tv_ketqua" >Ket qua</string>
+
+</resources>
